@@ -17,16 +17,19 @@ dependencies:
   code_builder: ^4.0.0
   dart_style: ^2.2.3
   source_gen: ^1.0.0
-#  flutter_sheet_localization: ^5.1.1
-  flutter_sheet_localization:
-    git:
-      url: https://github.com/spirifoxy/flutter_sheet_localization.git
-      path: flutter_sheet_localization
   build: ^2.0.0
   analyzer: ^4.1.0
   collection: ^1.15.0
   intl: ^0.17.0
-  localization_builder: ^0.16.0
+  # TODO: this is bad!
+  flutter_sheet_localization:
+    git:
+      url: https://github.com/spirifoxy/flutter_sheet_localization.git
+      path: flutter_sheet_localization
+  localization_builder:
+    git:
+      url: https://github.com/spirifoxy/flutter_sheet_localization.git
+      path: localization_builder
 
 dev_dependencies:
   build_test: ^2.0.0
