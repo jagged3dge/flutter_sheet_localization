@@ -23,7 +23,7 @@ dependencies:
       url: https://github.com/spirifoxy/flutter_sheet_localization.git
       path: flutter_sheet_localization
   build: ^2.0.0
-  analyzer: '>=2.3.0 <4.0.0'
+  analyzer: ^3.2.0
   collection: ^1.15.0
   intl: ^0.17.0
   localization_builder: ^0.16.0
