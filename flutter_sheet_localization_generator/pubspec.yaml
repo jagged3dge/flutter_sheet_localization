@@ -24,11 +24,11 @@ dependencies:
   # TODO: this is bad!
   flutter_sheet_localization:
     git:
-      url: https://github.com/spirifoxy/flutter_sheet_localization.git
+      url: https://github.com/jagged3dge/flutter_sheet_localization.git
       path: flutter_sheet_localization
   localization_builder:
     git:
-      url: https://github.com/spirifoxy/flutter_sheet_localization.git
+      url: https://github.com/jagged3dge/flutter_sheet_localization.git
       path: localization_builder
 
 dev_dependencies:
